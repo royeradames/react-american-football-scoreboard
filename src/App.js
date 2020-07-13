@@ -14,10 +14,10 @@ export default function App() {
   const away = 'Tigers'
 
   //bottomRow variables
-  const [down, setDown] = useState(0)
-  const [toGo, setToGo] = useState(0)
-  const [ballOn, setBallOn] = useState(0)
-  const [quarter, setQuarter] = useState(0)
+  const [down, setDown] = useState(3)
+  const [toGo, setToGo] = useState(7)
+  const [ballOn, setBallOn] = useState(21)
+  const [quarter, setQuarter] = useState(4)
 
 
   return (
